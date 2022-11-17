@@ -1,0 +1,246 @@
+*{
+    box-sizing: border-box;
+    font-family: sans-serif;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+/*----------------------Navbar---------------------*/
+.nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 8px;
+
+}
+.neuf{
+    background-color: #3182ce;
+    color:white;
+    margin: 0px 0px 0px 8px;
+    padding:6px 12px ;
+    border:#3182ce;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.s{
+    padding:0 8px;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between;
+    align-items:center;
+    gap:8px;
+    
+}
+.nav2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    gap: 8px;
+    padding: 25px 25px 30px;
+
+}
+.annonce{
+    background-color: #EE493A;
+    padding: 6px 16px 6px 8px;
+    color: #FFFFFF;
+    font-family: sans-serif;
+    border: #EE493A;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.connect{
+    background-color: white;
+    border: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.tayara{
+    height: 100%;
+    width: 100%;
+    background-color: #E5E5E5;
+    padding: 0px 12px 0px 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.one{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+
+}
+ 
+ .main{
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #eae3e3ec;
+    margin:  0 auto;
+    margin-top: 10vh;
+    padding: 10px 15px;
+    border-radius: 12px;
+ }
+ input{
+    width: 40%;
+    margin: 0 auto;
+ }
+ .deu{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+ }
+.grid{
+    display:flex;
+flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+
+}
+
+
+li > svg {
+    
+    background-color:  #eae3e3ec;
+    color: #EE493A;
+  
+}
+li{
+    display: grid;
+    grid-column: 1/2;
+place-items:center;
+padding: 8px;
+border-radius: 8px;
+}
+
+@media screen and (min-width:320px), screen and (max-width:480px) {
+    .grid  {
+        display:grid;
+        grid-template-columns: 1fr;
+
+       
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
